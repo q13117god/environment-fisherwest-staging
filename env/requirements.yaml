@@ -13,6 +13,9 @@ dependencies:
 - name: golang-http-81-xieweicarl2018
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: golang-http-82-xieweicarl2018
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: serverless-jenkins-demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
