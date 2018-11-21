@@ -25,6 +25,9 @@ dependencies:
 - name: react-quickstart
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: rust-http
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: serverless-jenkins-demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
